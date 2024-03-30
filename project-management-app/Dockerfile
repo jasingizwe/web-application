@@ -5,7 +5,7 @@ FROM nginx:alpine
 WORKDIR /usr/share/nginx/html
 
 # Copy the application files into the container
-COPY index.html styles.css script.js ./
+COPY index.html style.css script.js ./
 
 # Expose port 80
 EXPOSE 80
