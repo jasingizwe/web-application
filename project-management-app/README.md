@@ -31,4 +31,4 @@ During the development process, the following assumptions and decisions were mad
 - Technologies Used: HTML, CSS, JavaScript
 - HTML, CSS, and JavaScript were chosen for their simplicity and ease of development for a lightweight web application.
 - Docker Containerization: Docker was chosen to containerize the application for easy deployment and scalability across different environments.
-
+6. The link to the Docker Hub page where the Docker image is hosted, https://hub.docker.com/r/acolette/project-management-app
